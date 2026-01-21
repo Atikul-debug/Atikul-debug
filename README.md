@@ -1,10 +1,9 @@
 Atikul-debug/README.md
 
-# Hi, I'm Atikul Islam 👋
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hi, I'm Atikul Islam" width="400"/>
 
 
-
-## 👨‍💻 Expert in **JS, JAVA, Dart, Flutter || 📱 Android, iOS, and 🌐 Web Application Development**  
+ 👨‍💻 Expert in **JS, JAVA, Dart, Flutter || 📱 Android, iOS, and 🌐 Web Application Development**  
 
 📍 Shahazpur, Sirajgonj, Bangladesh. 
 
@@ -23,8 +22,7 @@ Technology is constantly evolving, and I thrive on adapting to those changes.
 Embracing new challenges and engaging in collaborative growth—whether through learning or mentoring in coding workshops—is not just my work, 
 but my passion.
 
-
-### 🤝 Let's Connect Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!
+ Let's Connect Got an exciting project or challenge in mind? 📩 Let's connect and bring your vision to life!
 
 
 
@@ -32,8 +30,10 @@ but my passion.
 
 
 ## 📫 Contact Me
-- 📘 Facebook: https://www.facebook.com/mdAtikulislam475
-- ▶️ YouTube: https://www.youtube.com/@ItsAtik%E3%83%83-u8m
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdAtikulislam475) 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ItsAtik%E3%83%83-u8m)
+
 
 ---
 
