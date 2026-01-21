@@ -1,6 +1,6 @@
 Atikul-debug/README.md
 
-<img src="আপনার_gif_url.gif" alt="Hi, I'm Atikul Islam" width="40"/>
+![Hi, I'm Atikul Islam](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 
 
