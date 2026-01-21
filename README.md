@@ -1,6 +1,6 @@
-Atikul-debug/README.md
+   Atikul-debug/README.md
 
-![Hi, I'm Atikul Islam](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+ ## Hi, I'm Atikul Islam
 
 
 
@@ -30,7 +30,7 @@ but my passion.
 - 📧 Email: **mdatikulislam475@gmail.com**
 
 
-## 📫 Contact Me
+#📫 Contact Me
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdAtikulislam475) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ItsAtik%E3%83%83-u8m)
@@ -38,7 +38,7 @@ but my passion.
 
 ---
 
-## 🛠️ Skills & Tools
+#🛠️ Skills & Tools
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
