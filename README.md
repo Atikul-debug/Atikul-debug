@@ -1,6 +1,6 @@
 Atikul-debug/README.md
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Hi, I'm Atikul Islam" width="400"/>
+![Hi, I'm Atikul Islam](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 
  👨‍💻 Expert in **JS, JAVA, Dart, Flutter || 📱 Android, iOS, and 🌐 Web Application Development**  
