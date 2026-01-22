@@ -7,7 +7,7 @@
 
 📍 Shahazpur, Sirajgonj, Bangladesh. 
 
-## 🧑‍💼 About Me
+## 🧑‍💼 About Me:
 
 For me, coding is more than just typing on a keyboard; it’s about crafting architecture on a digital canvas. 
 Over the past 2 years, I have been blending Flutter, Dart, Java, and JavaScript to build applications that simplify and enhance people's daily lives.
@@ -29,7 +29,7 @@ but my passion.
 - 📧 Email: **mdatikulislam475@gmail.com**
 
 
-## 📫 Contact Me
+## 📫 Contact Me:
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mdAtikulislam475) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ItsAtik%E3%83%83-u8m)
@@ -37,7 +37,7 @@ but my passion.
 
 ---
 
-#🛠️ Skills & Tools
+#🛠️ Skills & Tools:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
